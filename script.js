@@ -44,4 +44,4 @@ document
     }
   });
 
-weather.fetchWeather("Tiruchirappalli");
+weather.fetchWeather("Etawah");
